@@ -3,7 +3,7 @@
 ## Project Goal
 
 - Have a WPF Front End
-- Have and SQL database backend with at least two linked tables
+- Have an SQL database backend with at least two linked tables
 - Use Entity Framework to manage the relationship between your backend object model and database
 - Have a Business Layer with some logic
 
