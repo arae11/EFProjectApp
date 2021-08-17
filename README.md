@@ -1,19 +1,13 @@
-# EFProjectApp ReadMe
+# ReadMe
 
 ## Project Goal
 
 - Have a WPF Front End
-- Have an SQL database backend with at least two linked tables
+- Have and SQL database backend with at least two linked tables
 - Use Entity Framework to manage the relationship between your backend object model and database
 - Have a Business Layer with some logic
 
-Create an application for CSGO players that allows them to upload strategies to a database. The application will allow for a user account system, providing a method for users to rate strategies. The aim of the app is to help users develop and share different strategies, overall broadening strategy knowledge for users to implement in-game.
-
-MVP: Create a database system that allows for user input and viewing. The database will utilise a rating system and filters to improve usability.
-Ideal Product: MVP + a user account system allowing for users to save strategies to their own database for easy access. In addition to this a link to a youtube video to play out each strategy as a visual aid for any users.
-
-Notes:
-CSGO is a competitive FPS game that is based around a bomb-defusal scenario. A match consists of a total of 30 rounds that last 1 minute and 55 seconds each with the objective to either eliminate every player on the other team, or plant/defuse the bomb. Due to the short time during a round it is imperative that the team leader organises the team effectively. This is why it is important for teams to have pre-set strategies that they execute each round in order to meet the objective within the time limit. Due to the way maps are created there is a vast number of ways to use utility further emphasising the need to strategy in a highly competitive setting.
+Create an application that stimulates your short term memory and stores the scores, allowing you to track your progress.
 
 
 
@@ -41,19 +35,24 @@ CSGO is a competitive FPS game that is based around a bomb-defusal scenario. A m
 
 #### Sprint Goal
 
-
+- Implement the user login system
+- Begin coding the first game
 
 #### Backlog Items Completed
 
-
+- None fully implemented
 
 #### Sprint Retrospective
 
-
+- Re-evaluated the task criteria and changed the project towards the end of sprint in order to fully meet the criteria.
+- This meant that most of the sprint was wasted trying to remake the project
+- Most of the databases have been created and linked
+- Most of the frontend has been created using WPF
 
 #### Sprint Board
 
-
+> - Before: ![beginning](C:\Users\Alex Rae\Documents\Sparta\Scrum Boards\Sprint 1\beginning.png)
+> - After:![end](C:\Users\Alex Rae\Documents\Sparta\Scrum Boards\Sprint 1\end.png)
 
 
 
