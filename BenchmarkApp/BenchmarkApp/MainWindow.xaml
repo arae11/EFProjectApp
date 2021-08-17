@@ -1,9 +1,9 @@
-﻿<Window x:Class="BenchmarkWPF.MainWindow"
+﻿<Window x:Class="BenchmarkApp.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:BenchmarkWPF"
+        xmlns:local="clr-namespace:BenchmarkApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
@@ -49,7 +49,7 @@
                  HorizontalContentAlignment="Center"
                  VerticalContentAlignment="Center"
                  Background="#FFDCD0D0" 
-                 TextChanged="tbxUserName_TextChanged"/>
+                 TextChanged="tbxUserName_TextChanged" Text=""/>
         <PasswordBox x:Name="passwordField" 
                  Grid.Row="5" 
                  Grid.RowSpan="1" 
@@ -59,7 +59,7 @@
                  HorizontalContentAlignment="Center"
                  VerticalContentAlignment="Center"
                  Background="#FFDCD0D0" 
-                 PasswordChanged="tbxPassword_TextChanged"/>
+                 PasswordChanged="pbxPassword_TextChanged"/>
         <Button x:Name="btnLogin" 
                 Grid.Row="8" 
                 Grid.Column="5" 

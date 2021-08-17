@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StratbookData
+namespace BenchmarkData
 {
     class Program
     {

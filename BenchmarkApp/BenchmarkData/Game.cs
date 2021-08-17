@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StratbookData
+namespace BenchmarkData
 {
-    public class Map
+    public class Game
     {
-        public int MapId { get; set; }
-        public string MapName { get; set; }
+        public int GameId { get; set; }
+        public string GameType { get; set; }
     }
 }

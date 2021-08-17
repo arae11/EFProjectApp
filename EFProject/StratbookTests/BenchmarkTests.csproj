@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\StratbookData\StratbookData.csproj" />
+    <ProjectReference Include="..\StratbookData\BenchmarkData.csproj" />
   </ItemGroup>
 
 </Project>

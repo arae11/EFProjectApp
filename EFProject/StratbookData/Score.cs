@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StratbookData
+namespace BenchmarkData
 {
-    public class Role
+    public class Score
     {
         public int RoleId { get; set; }
         public string RoleType { get; set; }
